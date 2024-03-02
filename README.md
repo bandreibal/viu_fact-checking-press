@@ -7,7 +7,7 @@ The data, code, full prompts and evaluation data are fully shared and openly ava
 * **Project**: Research Project for the award of the Master of Science in Artificial Intelligence
 * **Institution**: VIU - Universidad Internacional de Valencia; Centro ESenCIA - Centro de Estudios en Ciencia de Datos e Inteligencia Artificial
 * **Software title**: Enhanced information retrieval from the press and its underlying ethics
-* **Software repository**: \url{https://github.com/bandreibal/viu_fact-checking-press}
+* **Software repository**: https://github.com/bandreibal/viu_fact-checking-press
 * **Software requirements**: Python 3.9.18
 * **Publication date**: March 2024
 
