@@ -18,4 +18,3 @@ It is divided into the following directories:
 * **prompts**: Collection of prompts used both in the experimental phase and in the refined one.
 * **utils**: Auxiliary functions and data necessary for the execution of the main code.
 * **temporal_evals**: Checkpoints of the evaluation of each model.
-* **z-experiments**: Notebooks with experiments that were not included in the final implementation.
