@@ -1,3 +1,5 @@
+![viu](https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_VIU.png)
+
 # Enhanced information retrieval from the press and its underlying ethics
 
 This repository contains the supporting materials for the research work done for the final project of the Master of Science in Artificial Intelligence, during the academic year 2023/2024.
